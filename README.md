@@ -13,8 +13,14 @@
 ___
 
 ### Changelog
-**v 1.0.2**
-**QOL changes**: Widget adjustements and added an alert that custom packs aren't available
+**v 1.1.0**
+**QOL changes**: Widget adjustements and added an alert that custom packs aren't available and 
 
-**v 1.0.1**
+**v 1.0.0**
 **Initial release**: Volume, Soundpacks
+
+___
+
+### Credits:
+myinstants.com: Some sound effects (Mostly unserious SFX)
+mechvibes.com: Some sound efffects (Mostly keyboard, switches and typewriter SFX)
