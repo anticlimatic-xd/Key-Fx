@@ -22,5 +22,5 @@ ___
 ___
 
 ### Credits:
-myinstants.com: Some sound effects (Mostly unserious SFX)
-mechvibes.com: Some sound efffects (Mostly keyboard, switches and typewriter SFX)
+* myinstants.com: Some sound effects (Mostly unserious SFX)
+* mechvibes.com: Some sound efffects (Mostly keyboard, switches and typewriter SFX)
