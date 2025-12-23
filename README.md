@@ -17,10 +17,10 @@
 ___
 
 ### Changelog
-**v 1.1.0**
+**v 0.1.1**
 **QOL changes**: Widget adjustements and added an alert that custom packs aren't available and 
 
-**v 1.0.0**
+**v 0.0.0**
 **Initial release**: Volume, Soundpacks
 
 ___
