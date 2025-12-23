@@ -14,7 +14,7 @@ class app:
 
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("KeyFX 1.0.2")
+        self.root.title("KeyFX 0.1.1")
         self.root.geometry("300x50")
         self.root.resizable(False, False) #Create the root window
 
@@ -74,7 +74,7 @@ class app:
 
             soundpack_window = tk.Toplevel()
             soundpack_window.title("Soundpack")
-            soundpack_window.geometry("305x70") #Create a new toplevel
+            soundpack_window.geometry("305x90") #Create a new toplevel
             soundpack_window.resizable(False, False)
 
             soundpack_frm = tk.Frame(master=soundpack_window)
@@ -155,3 +155,4 @@ class app:
 #create_toolbar()
 
 gog = app()
+
